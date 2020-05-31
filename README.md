@@ -22,6 +22,7 @@ To achieve this, we need a sensor to detect the presence/absence of a car at a p
 ## Components required, Feasibility and budget:      
 | Component | Choice | Feasibility | Cost |       
 |-----------|--------|-------------|------|       
-| Sensor (for detecting the moving car) | IR Sensor Module | IR sensor modules are cheap and reliable and have great adaptive capability to ambient light. These are easy to use and interface and also consume less power.  
+| Sensor (for detecting the moving car) | IR Sensor Module | IR sensor modules are cheap and reliable and have great adaptive capability to ambient light. These are easy to use and interface and also consume less power | 50-200 INR|      
+
 
 ## Debugging:    
